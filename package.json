@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "name": "learning-jest",
+  "version": "1.22.10",
+  "description": "Learning jest from scratch",
+  "main": "index.js",
+  "author": "Sreejan",
+  "license": "MIT",
+  "private": true
+}
